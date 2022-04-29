@@ -1,6 +1,10 @@
-List library: (version new) !!!
-
-1.Microsoft.Net.Http.Headers
-2.Microsoft.AspNetCore.Http
-3.System.Net.Http
-4.HtmlAgilityPack 
+How to run Sourcecode:
+1.
+Open Project in Visual Studio 
+2.
+Install some packet/library
+Microsoft.Net.Http.Headers
+Microsoft.AspNetCore.Http
+System.Net.Http
+HtmlAgilityPack 
+3. Run project
